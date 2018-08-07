@@ -1,3 +1,6 @@
+This is a fork of pybind11 with the intention of supporting
+sub-interpreters. Please, do not fork or clone this, visit instead (https://github.com/pybind/pybind11)
+
 ![pybind11 logo](https://github.com/pybind/pybind11/raw/master/docs/pybind11-logo.png)
 
 # pybind11 — Seamless operability between C++11 and Python
